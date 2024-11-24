@@ -1,0 +1,7 @@
+user_id,name,surname,age,init_date,email
+1,Brais,Moure,36,2010-04-29,braismoure@mouredev.com
+2,Sara,NULL,20,2023-10-12,sara@gmail.com
+3,Carlos,Asaustre,15,NULL,sara@gmail.com
+4,S4vitar,NULL,NULL,NULL,NULL
+5,Miriam,Gonzalez,15,NULL,miriam@gmail.com
+6,Martin,Beta,NULL,NULL,NULL
